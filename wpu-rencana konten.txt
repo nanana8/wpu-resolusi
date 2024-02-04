@@ -7,3 +7,5 @@ Rencana
 - Nanana
 - apa ya
 - gatau
+- Python
+- React
