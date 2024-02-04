@@ -2,3 +2,4 @@ WPU RESOLUSI
 - Konsisten belajar programming
 - Membuat platform digital untuk publikasi usaha
 - Belajar Java
+- Belajar Python
