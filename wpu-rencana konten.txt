@@ -1,5 +1,6 @@
 Rencana
 - Web katalog produk
+- tambah list
 - Lalala
 - Nanana
 - apa ya
