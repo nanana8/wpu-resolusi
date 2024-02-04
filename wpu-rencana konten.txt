@@ -1,5 +1,7 @@
 Rencana
 - Web katalog produk
+- Framework tailwind
+- Bootstrap
 - tambah list
 - Lalala
 - Nanana
