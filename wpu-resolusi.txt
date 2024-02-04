@@ -1,3 +1,4 @@
 WPU RESOLUSI
 - Konsisten belajar programming
-- Membuat platform digital untuk publikasi Dapur Enak
+- Membuat platform digital untuk publikasi usaha
+- Belajar Java
