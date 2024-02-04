@@ -1,7 +1,9 @@
 Rencana
 - Web katalog produk
+- Tailwind
 - tambah list
 - Lalala
 - Nanana
 - apa ya
 - gatau
+- Python
